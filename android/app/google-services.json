@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "379627018712",
+    "project_id": "test-8b927",
+    "storage_bucket": "test-8b927.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:379627018712:android:4c022a5182917b06877aad",
+        "android_client_info": {
+          "package_name": "com.example.chatter_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDp5L8aGNoTiWqYnophBYxXAWfVhIjrqYE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:379627018712:android:839d31ac420d2b95877aad",
+        "android_client_info": {
+          "package_name": "com.example.firebase_test"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDp5L8aGNoTiWqYnophBYxXAWfVhIjrqYE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
