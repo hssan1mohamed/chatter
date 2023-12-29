@@ -40,6 +40,8 @@ dependencies:
   firebase_storage:
   cloud_firestore:
   shared_preferences:
+  bloc:
+  flutter_bloc: ^8.1.3
 
 dev_dependencies:
   flutter_test:
